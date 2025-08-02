@@ -1,0 +1,151 @@
+[
+  {
+    "type": "text",
+    "content": "Got a whole lot of products you want to sell?\n\nJasper makes the process of writing product descriptions at scale quick and easy.\n\nInstead of hiring a team of writers to get all your product descriptions done on your site, you can use this AI-powered marketing content generator to create effective product descriptions in minutes."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 2 END_files/4d50c5fa-e082-42d4-9416-1ab345b6a17e.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "To get started, I'm going to teach you how to use Jasper for product descriptions.\n\nYour task is to create a Product Description for the Eco-Friendly Lunchbox. Interested? Let's get started!"
+  },
+  {
+    "type": "text",
+    "content": "Do not worry if you think that you can't do it. I'll guide you through the process, and before using Jasper AI itself, you are going to train here."
+  },
+  {
+    "type": "quiz",
+    "question": "As you know, to start creating content with Jasper, you need to create a document and choose the right template. What template will you need to use to create a product description?",
+    "options": [
+      {
+        "text": "Product Feature Update",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Product Description",
+        "is_correct": false
+      }
+    ],
+    "explanation": "To use all of Jasper's capabilities, you need to select the correct template."
+  },
+  {
+    "type": "practice_task",
+    "title": "Faster Option",
+    "instruction": "Create a document in your dashboard. Just type what you need, and Jasper will generate it automatically. Let's make a prompt:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Great! Now, you need to provide detailed info about your brand and product so Jasper AI can use it to generate accurate content."
+  },
+  {
+    "type": "practice_task",
+    "title": "Product Name",
+    "instruction": "Fill in the product name for the Eco-Friendly Lunchbox.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Move to Product Features",
+    "instruction": "Fill in the key features of the GreenPack Lunchbox.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Excellent! Now, let's set the tone of voice for our product description."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 2 END_files/ff1aef37-9d59-4bb2-a8a1-13daf4a1e0a2.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Tone of Voice",
+    "instruction": "Choose a suitable tone of voice for the Eco-Friendly Lunchbox description.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "Now that we are entering all the details in Jasper and creating a short description, what should we do?",
+    "options": [
+      {
+        "text": "Generate product description options",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Generating product description options will provide you with different versions to choose from."
+  },
+  {
+    "type": "text",
+    "content": "After asking Jasper to create one more option for the Eco-Friendly Lunchbox description, here are your results:"
+  },
+  {
+    "type": "text",
+    "content": "\"Meet the GreenPack Lunchbox!\n\nYour new eco-friendly companion for meals on the go. Made from 100% biodegradable materials, it's designed with both you and the planet in mind. Durable, lightweight, and easy to carry, it features multiple compartments to organize your meals perfectly. Microwave and dishwasher safe for ultimate convenience. Enjoy your food and feel good about making a greener choice. Every little change counts!"
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've just created your first AI-generated product description with Jasper. Let's refine it further."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 2 END_files/09d397ad-8c18-4b75-85b4-d05d7f5a0b8b.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Which of the following enhances this product description the most?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Add more specific benefits and a call to action",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Adding specific benefits and a call to action will make the description more compelling."
+  },
+  {
+    "type": "text",
+    "content": "Here is the refined product description:\n\n\"GreenPack Lunchbox\n\nMeet our GreenPack Lunchbox, your new best buddy for sustainable eating on the go! Designed with care for both you and the planet, this lunchbox is made from 100% biodegradable materials, so you can pack your meals with a clear conscience. It's not just eco-friendly; it's also super durable and lightweight, making it a breeze to carry around. With its multiple compartments, you can easily organize your salads, sandwiches, and snacks just the way you like them. Plus, it's microwave and dishwasher-safe, perfect for those busy days when convenience is key. Enjoy healthier eating habits while saving money and reducing plastic waste with every meal.\n\nSo why wait? Make a conscious choice for a greener future—order your GreenPack Lunchbox today and start your journey towards a sustainable lifestyle!\""
+  },
+  {
+    "type": "text",
+    "content": "Fantastic! You've refined the product description to make it more engaging and persuasive."
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll explore Jasper's commands and templates to help you generate even more amazing content. Stay tuned, and keep creating!"
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 2 END_files/77c4d486-28f3-429b-bd78-70f9f2800a40.webp",
+    "alt_text": ""
+  }
+]

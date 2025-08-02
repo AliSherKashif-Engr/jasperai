@@ -1,0 +1,149 @@
+[
+  {
+    "type": "text",
+    "content": "Do you know who is a pro in writing emails? It's someone who can write any kind of email: cold emails, welcome emails, email sequences, follow-up emails, promotional emails, media pitch emails, content share emails, transactional emails, re-engagement emails, and product update emails."
+  },
+  {
+    "type": "text",
+    "content": "You probably never thought about so many types of emails in your life. Fortunately, each of these emails can be created with Jasper, and each can be done in a different way!"
+  },
+  {
+    "type": "text",
+    "content": "Let's start with a product update email. These emails are about exciting announcements regarding product updates or new features to keep customers engaged."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, you need to upload details. Answer the question: \"What are the details of the product update or new features?\""
+  },
+  {
+    "type": "practice_task",
+    "title": "Product Update Details",
+    "instruction": "Fill in the gap to provide details about the product update or new features.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, let's talk about the benefits. Answer the question: 'How do these updates benefit the user?'"
+  },
+  {
+    "type": "practice_task",
+    "title": "Benefits of the Updates",
+    "instruction": "Fill in the gap to explain how the updates benefit the user.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's decide on the call to action. Answer the question: “What actions do you want the recipient to take after reading the email?”"
+  },
+  {
+    "type": "practice_task",
+    "title": "Call to Action",
+    "instruction": "Fill in the gap to define the call to action.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "That's it! In just a few minutes, you've created a product update email with Jasper. Now let's move on to learning how to create a follow-up email."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's tackle a follow-up email. Follow-up emails are crucial for maintaining engagement with your leads and ensuring they stay informed about your products and services."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, provide the context of your previous interaction with the lead. Answer the question: “What was the content or context of your previous interaction with the lead?”"
+  },
+  {
+    "type": "practice_task",
+    "title": "Previous Interaction Context",
+    "instruction": "Fill in the gap to describe the previous interaction with the lead.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, define the main objective of this follow-up email. Answer the question: 'What is the main objective of this follow-up email?'"
+  },
+  {
+    "type": "practice_task",
+    "title": "Follow-Up Email Objective",
+    "instruction": "Fill in the gap to specify the main objective of the follow-up email.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Finally, determine the specific action you want the recipient to take. Answer the question: \"What specific action do you want the recipient to take after reading this email?\""
+  },
+  {
+    "type": "practice_task",
+    "title": "Specific Action",
+    "instruction": "Fill in the gap to define the specific action for the recipient.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "See, even though the type of email is different, your work with Jasper remains just as easy and quick! The AI tool does most of the work for you."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've learned how to create both a product update email and a follow-up email using Jasper. In the next lesson, we'll explore even more advanced email types and techniques to further enhance your email marketing skills."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 7 END_files/0b5c8e16-ce69-4db2-b196-bab8ae8176a1.webp",
+    "alt_text": ""
+  }
+]

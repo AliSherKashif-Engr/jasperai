@@ -1,0 +1,150 @@
+[
+  {
+    "type": "text",
+    "content": "You have a new task: create engaging headlines for an online investment education website. Sounds a bit vague, doesn't it? But don't worry, Jasper can offer several solutions. Let's get started."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 6 END_files/7ffe4cc6-919b-4c0a-942a-7bbf144a5686.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "First, Jasper suggests using the \"Headlines\" template. This template generates powerful and attention-grabbing titles for web content, attracting visitors and improving SEO."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 6 END_files/ed1547e6-3feb-4dd7-81e4-0e83abdf8cd8.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To use this template, we need to fill in the \"Content\" field. The question here is, \"What is this headline for?\""
+  },
+  {
+    "type": "practice_task",
+    "title": "Defining the Content",
+    "instruction": "Fill in the gap to describe the purpose of the headline using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Great! Now, you need to answer the question, \"How would you like the headline to be written?\""
+  },
+  {
+    "type": "practice_task",
+    "title": "Writing Guidelines",
+    "instruction": "Fill in the gap to specify how you want the headline to be written using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Well done! Here are the generated headlines from Jasper:\n\nBlog Headlines:\nHow to Start Investing as a Beginner\nA Beginner's Guide to Investing in the Stock Market\nInvesting Basics: What New Investors Need to Know\n\nLanding Page Headlines:\nStart Investing Today\nInvest Like a Pro\nBuild Wealth for Tomorrow"
+  },
+  {
+    "type": "quiz",
+    "question": "How can you refine the whole text further to get a better reasoning output?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Highlight the text Ask Jasper, Improve Writing",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Highlighting the text \"Ask Jasper\" and selecting \"Improve Writing\" will help refine and enhance the clarity and quality of the reasoning output."
+  },
+  {
+    "type": "text",
+    "content": "Jasper has refined the output for you:\n\nBlog Headlines:\nA Beginner's Guide to Starting Your Investment Journey\nNavigating the Stock Market: An Introductory Guide for New Investors\nInvesting Essentials: Key Insights for First-Time Investors\n\nLanding Page Headlines:\nBegin Your Investment Journey Today\nInvest Like a Professional\nBuild Your Wealth for a Brighter Tomorrow"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Another solution is the \"Search Ad\" template. While the previous template provided headlines for blogs and landing pages, this one will give us options for advertising."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 6 END_files/8f5f444e-48cf-4355-98f3-4fc74dcd8b14.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "This template creates short and powerful headlines and descriptions for search ads. Let's fill in the necessary fields."
+  },
+  {
+    "type": "text",
+    "content": "First, we need to provide the product or service details. The question is, \"What product or service are you advertising, and what are its key features or benefits?\""
+  },
+  {
+    "type": "practice_task",
+    "title": "Product/Service Details",
+    "instruction": "Fill in the gap to describe the product or service using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Great! Now, we need to specify the keywords we want to target."
+  },
+  {
+    "type": "practice_task",
+    "title": "Specifying Keywords",
+    "instruction": "Fill in the gap to specify the keywords using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Perfect! Now, what action do we want our audience to take?"
+  },
+  {
+    "type": "practice_task",
+    "title": "Call to Action",
+    "instruction": "Fill in the gap to specify the action using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "You're doing amazing! Jasper generated the following output for you:\nHeadlines\nLearn to Invest, Like a Pro\nInteractive Investment Courses\nStart Your Free Trial Today\n\nDescriptions\nDiscover expert-led courses, real-time simulations, and more. Start your free trial!\nJoin 100,000+ investors who trust us to boost their skills. Sign up today!\nLearn to invest smarter with our interactive tutorials. Join now!\nGet exclusive investment tips straight to your inbox. Subscribe today!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've successfully crafted engaging headlines using Jasper AI. Your client is thrilled with the results. In the next lesson, we'll explore even more advanced features and templates to further enhance your content creation skills."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 6 END_files/eededb35-722b-457e-8d77-9ef019475e26.webp",
+    "alt_text": ""
+  }
+]

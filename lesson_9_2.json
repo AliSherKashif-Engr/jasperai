@@ -1,0 +1,220 @@
+[
+  {
+    "type": "quiz",
+    "question": "Let's start with the basics. What is the first step in creating personalized content with Jasper AI?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Define your brand tone of voice (TOV)",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The first step is to define your brand tone of voice (TOV)."
+  },
+  {
+    "type": "text",
+    "content": "To define your brand tone of voice (TOV), you can research your competitors, identify best practices among the companies and brands you admire, and determine the Brand TOV you prefer for your content."
+  },
+  {
+    "type": "quiz",
+    "question": "But how can you teach Jasper AI your brand's TOV?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Upload any text, file, or URL with the desired text to the knowledge base",
+        "is_correct": true
+      }
+    ],
+    "explanation": "You can upload any text, file, or URL with the desired text to the knowledge base."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's upload the following text to the Jasper knowledge base to establish our brand TOV:\n\n\"Time management is a game-changer for your personal and professional life! Master it to accomplish more, reduce stress, and boost productivity. Explore tools like to-do lists and time-tracking apps to simplify your life. Embrace effective time management and unlock your potential! #Productivity\"\n\nName this tone of voice as \"Twitter.\""
+  },
+  {
+    "type": "text",
+    "content": "Remember, the text must be at least 1000 characters for Jasper to learn your TOV effectively."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 9 END_files/473a5e1a-a650-4b42-ae5f-792a69bceba5.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Now, every time we ask Jasper to create tweets selecting this TOV, it will generate similar texts that align with your brand's voice."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 9 END_files/f560e5ba-a8ec-4519-842d-284930b91d05.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Personalized Tweet",
+    "instruction": "Fill in the gap to generate a tweet using the \"Twitter\" TOV for a specific topic and purpose.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Another cool function for personalization in Jasper AI is the ability to create whole marketing campaigns. This function allows you to manage and generate a series of related content pieces, ensuring consistency across all your marketing materials."
+  },
+  {
+    "type": "quiz",
+    "question": "How do you think you should start when creating a new campaign in Jasper AI?",
+    "options": [
+      {
+        "text": "Copy and paste the campaign summary",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Create a new campaign",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Not quite. The first step is to create a new campaign."
+  },
+  {
+    "type": "quiz",
+    "question": "After you create a new campaign in Jasper AI, what do you think comes next?",
+    "options": [
+      {
+        "text": "Enter the campaign name manually",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "After creating the campaign, you should enter the campaign name manually."
+  },
+  {
+    "type": "quiz",
+    "question": "What will you do next after entering the campaign name in Jasper AI?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Select the TOV for the campaign",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Correct! After entering the campaign name, you should select the campaign voice (TOV)."
+  },
+  {
+    "type": "text",
+    "content": "Well done! After all these steps, you are ready to copy and paste the campaign summary."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 9 END_files/03fb959b-42db-48f0-9c5a-b5d88aad1ac7.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Once you've set up your campaign, start selecting the assets you need. Jasper AI offers a variety of assets, including:\n- Blog post\n- Case study\n- Facebook image ad\n- Landing page\n- Nurture email sequence\n- Promotional email sequence\n- TikTok script\n- Twitter thread\n- Press release"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "After selecting your assets, click \"Generate,\" and in just a few seconds, Jasper AI will build a full campaign asset gallery for you."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 9 END_files/bc85a646-a27c-4a4e-8bec-959f062a8456.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "With Jasper AI, creating personalized content and comprehensive marketing campaigns is quick and easy. You'll save time and ensure consistency across all your content."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've learned how to create personalized content and campaigns using Jasper AI. These powerful tools will help you maintain a consistent brand voice and produce high-quality, engaging content."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 9 END_files/ffbf06d2-adcf-4691-8213-323cddd60153.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll dive into advanced techniques for refining and customizing your content even further. Stay tuned, and keep creating!"
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 9 END_files/23150806-f72c-4876-a190-289c12e328da.webp",
+    "alt_text": ""
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "type": "text",
+    "content": "Today, you were approached with a new and interesting task: a client wants to integrate SEO-optimized titles and descriptions to improve webpage visibility in search engine results."
+  },
+  {
+    "type": "text",
+    "content": "Something new, isn't it? But that's okay because we have Jasper to help us. This AI tool offers a ready-made solution with its template.\n\nNo need to create anything from scratch or spend a lot of time on it. Let's see how to use it."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "The \"Meta Title and Description\" template is designed specifically for creating SEO-friendly titles and descriptions. This template helps ensure that your content is optimized for search engines, improving visibility and attracting more visitors."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 5 END_files/51cf2a03-8fbf-49d3-a735-6cb48b4757a3.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, we need to describe the content of the client's webpage. This helps Jasper understand the context and generate relevant meta titles and descriptions."
+  },
+  {
+    "type": "practice_task",
+    "title": "Describing the Content",
+    "instruction": "Fill in the gap to describe the content of the client's web page using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Great! Now, for the second step, we need to specify the keywords we want to target. These keywords are crucial for search engine optimization."
+  },
+  {
+    "type": "practice_task",
+    "title": "Specifying Keywords",
+    "instruction": "Fill in the gap to specify the keywords you want to target using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Perfect! That's all we need to get started with Jasper."
+  },
+  {
+    "type": "text",
+    "content": "You can ask it several times and choose the one that you like the most! For example, this one could be another good version:\n\nMeta Title\nShop Sustainable Products | Simplifying Eco-Friendly Living\n\nMeta Description\nExplore a range of sustainable products for every facet of your life at GreenLiving.com. Enjoy quick shipping and free returns on all orders!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Consistently applying these techniques across your web pages will help boost your overall SEO performance. Remember, you can always refine the generated content to better suit your needs."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 5 END_files/05719d8e-b821-448d-9384-28a9ab3436f6.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "To further help Jasper enhance the output, you can add more information and images from the website into the AI. The more context you provide, the better the results."
+  },
+  {
+    "type": "quiz",
+    "question": "How can you help Jasper improve the output?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "All of the mentioned",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Combining various improvements can enhance the output more effectively than applying a single change."
+  },
+  {
+    "type": "text",
+    "content": "By adding more context, Jasper generated another good SEO-optimized meta title and description. Here's what it provided:\n\nMeta Title: \"Organic Skincare Products - Natural Beauty & Eco-Friendly Cosmetics\"\nMeta Description: \"Discover the best organic skincare products that enhance your natural beauty. Shop eco-friendly cosmetics that are good for you and the planet.\""
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You successfully completed the task, and the client is thrilled with the results."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've learned how to use Jasper AI to create SEO-optimized meta titles and descriptions. In the next lesson, we'll explore advanced commands and templates to further enhance your content creation skills."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 5 END_files/16b85d49-533c-434a-a2e7-66c9ddd1f2ba.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Until next time, keep optimizing your content and refining your SEO strategy!"
+  }
+]

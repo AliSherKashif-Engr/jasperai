@@ -1,0 +1,170 @@
+[
+  {
+    "type": "text",
+    "content": "A landing page is crucial for capturing the attention of visitors and converting them into leads or customers. With Jasper AI, you can create persuasive and clear web pages designed to achieve this goal efficiently."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 14 END_files/57f1f360-f5cb-4089-8c90-1517342761aa.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Which of the following Jasper AI templates should you use to create a professional and effective landing page?",
+    "options": [
+      {
+        "text": "Landing Page",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Social Media Post",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct template is specifically designed to help create a dedicated web page aimed at capturing leads or driving conversions."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, we need to specify the product or service you are promoting. This helps Jasper AI understand the focus of your landing page."
+  },
+  {
+    "type": "practice_task",
+    "title": "Product / Service",
+    "instruction": "Fill in the gap to specify the product or service for your landing page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, highlight the key benefits or features of your product or service. These benefits will be the main selling points on your landing page."
+  },
+  {
+    "type": "practice_task",
+    "title": "Key Benefits",
+    "instruction": "Fill in the gap to specify the key benefits for your landing page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Finally, specify your target audience. This helps Jasper AI tailor the content to appeal to the right demographic."
+  },
+  {
+    "type": "practice_task",
+    "title": "Target Audience",
+    "instruction": "Fill in the gap to specify the target audience for your landing page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Excellent! With these inputs, Jasper AI will help you generate a compelling landing page that resonates with your audience and highlights the key benefits of your product or service."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Once you've filled out the template and clicked the \"Generate response\" button, Jasper AI created a professional landing page based on the information you provided."
+  },
+  {
+    "type": "text",
+    "content": "Let's review and refine the generated landing page to ensure it is clear, persuasive, and effective."
+  },
+  {
+    "type": "quiz",
+    "question": "After generating landing page content with Jasper AI, what should be your next step?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Review and refine the content, making necessary edits for clarity and readability",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Reviewing and refining the content, making necessary edits for clarity and readability, ensuring the landing page is professional and effective."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To make your landing page more engaging, consider adding images, videos, or other visual elements. These can help illustrate your key benefits and make the page more visually appealing."
+  },
+  {
+    "type": "text",
+    "content": "This is what we got: \"Master Your Skills with Our E-Learning Platform\n\nUnlock Your Potential with Interactive Courses and Expert Tutorials\n\nWelcome to [Your Platform Name], where personalized learning meets flexibility and real-time feedback. Our mission is to empower students, professionals, and lifelong learners with quality online education designed to enhance your skills and advance your career.\n\nWhy Choose Our E-Learning Platform?\n\nPersonalized Learning\nNo two learners are the same, and neither are our courses. Our platform tailors each learning path to fit your unique needs and goals.\n\nFlexible Scheduling\nLife is busy, and we get that. Our courses are designed to fit seamlessly into your schedule. Learn at your own pace, anytime, anywhere - whether you're at home, on the go, or during a lunch break…\""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've created a professional landing page using Jasper AI. This page will help you convert visitors into leads or customers by presenting your product or service in a clear and persuasive manner."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 14 END_files/9b19d451-dd25-4560-ac8d-e00a127cfe88.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've learned how to use Jasper AI to create a professional landing page. In the next lesson, we'll explore advanced techniques for refining your landing page and optimizing it for conversions."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 14 END_files/5b981348-f609-4f5d-a1d5-01e50fde211b.webp",
+    "alt_text": ""
+  }
+]

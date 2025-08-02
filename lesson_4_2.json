@@ -1,0 +1,138 @@
+[
+  {
+    "type": "text",
+    "content": "Being able to create content using templates in Jasper is already cool! But what if you have some ready-made text that needs refinement?"
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 4 END_files/5b4c1ae5-b866-457c-ab12-7cca405cf163.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Imagine you have the following text ready:\n\n\"Time management is a crucial skill that can greatly impact both personal and professional life. Effective time management allows individuals to accomplish more tasks in less time, reduces stress, and improves overall productivity. By prioritizing tasks and setting realistic goals, people can work more efficiently and avoid feeling overwhelmed. There are various techniques and tools available to help with time management, such as to-do lists, calendars, and time-tracking apps. Developing good time management habits can lead to a more balanced and fulfilling life.\""
+  },
+  {
+    "type": "text",
+    "content": "But you need to edit this text to make it shorter and more engaging and in French for a tweet.\n\nSo, you paste it into a new document in Jasper and highlight it. You then see the “Ask Jasper” button."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 4 END_files/5eb9f3f8-9df3-4104-a28f-fea0592741fc.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's start by adjusting the tone. We have the following tones available:\nCasual, Conversational, Engaging, Friendly, Professional, Straightforward, Witty."
+  },
+  {
+    "type": "practice_task",
+    "title": "Changing the Tone",
+    "instruction": "Fill in the gap to change the tone of the text using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, let's change the length of the text. Jasper offers to make it longer or shorter or to summarize it."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 4 END_files/e194be1f-dccf-406b-889c-fa6f9ed0d3d8.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Adjusting the Length",
+    "instruction": "Fill in the gap to adjust the length of the text using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, we need to customize our content for the platform. For this purpose, Jasper has a repurpose content function. It can repurpose the text for a\n\nFacebook post, LinkedIn post, List of keywords, Meta description, Press release, Promotional email, SEO-enhanced version, Title, and Tweet."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 4 END_files/13c5a4d0-4da9-443c-92db-abc58a7e160b.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Customizing for the Platform",
+    "instruction": "Fill in the gap to repurpose the content using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Finally, let's translate the text into French. Jasper can translate text into multiple languages, including French, German, Italian, and Spanish."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 4 END_files/113246de-02ea-487b-87fa-51ed7dcdde17.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Translating the Content",
+    "instruction": "Fill in the gap to translate the text using Jasper AI.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Now, let's see how Jasper brings this task to life! Here's the final result:"
+  },
+  {
+    "type": "text",
+    "content": "\"La gestion du temps est un véritable changement de jeu pour votre vie personnelle et professionnelle ! Maîtrisez-la pour accomplir plus, réduire le stress et augmenter votre productivité. Explorez des outils comme les listes de tâches et les applications de suivi du temps pour simplifier votre vie. Adoptez une gestion du temps efficace et libérez votre potentiel ! #Productivité\""
+  },
+  {
+    "type": "text",
+    "content": "And there you have it! What seemed like an impossible task only took a few minutes with Jasper."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've learned how to edit and refine your content using Jasper AI. These skills will help you produce high-quality, engaging content that resonates with your audience. In the next lesson, we'll explore advanced techniques for customizing your prompts and refining your content even further."
+  },
+  {
+    "type": "text",
+    "content": "Until next time, keep refining and perfecting your content with Jasper AI!"
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 4 END_files/0e7f1afa-a350-41c8-bb23-b941d9457a30.webp",
+    "alt_text": ""
+  }
+]

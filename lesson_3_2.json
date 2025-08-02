@@ -1,0 +1,147 @@
+[
+  {
+    "type": "text",
+    "content": "Did you know that Jasper AI provides a variety of templates to streamline your content creation process? These tools are designed to help you create content quickly and effectively without compromising on quality."
+  },
+  {
+    "type": "text",
+    "content": "Let's take a closer look at these templates and see how they can elevate your writing process."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Jasper AI offers a wide range of templates to help you get started with different types of content.\n\nTemplates are pre-designed formats that guide you in creating structured and effective content. Whether you need a product description, a blog post, an email, or even a video script, Jasper has a template for you."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 3 END_files/a9250bac-6a23-4eab-8d53-928ccda9c9ee.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Let's take a look at some of the most popular templates available in Jasper AI and how to work with them."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You already generated content using this template. It helps you create detailed and persuasive descriptions that highlight the benefits and features of a product.\n\nWhen you open the Product Description template, you will see a file on the right where you can see the output of Jasper and write prompts to generate a response."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 3 END_files/0a97b4b0-fe8a-4d63-b5ca-12c71d38ffab.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "But why write by yourself when Jasper can assist? On the left side, you can fill in the required fields quickly.\n\nFor a product description, it includes the product name, key features, and structure. Additionally, you can add more information or an image. And that's it! Jasper will generate a product description for you."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 3 END_files/43ca090b-f912-4346-a4f5-d2dad556b9c9.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Product Description",
+    "instruction": "Fill in the gap to create a detailed and persuasive product description using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "This template is designed for creating engaging long-form content aimed at providing value, driving traffic, and enhancing SEO. When you open the Blog Post template, you'll see a similar setup with a file on the right for Jasper's output and your prompts."
+  },
+  {
+    "type": "text",
+    "content": "Follow the prompts provided by Jasper to structure your blog post effectively. You will need to provide the topic, audience, and outline. Jasper can also assist you separately if you need help generating these elements."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 3 END_files/273d2167-fddd-465b-ba80-c84561a07d67.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Blog Post",
+    "instruction": "Fill in the gap to create an engaging blog post using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "This template helps you craft professional and persuasive cold emails for various purposes, from marketing campaigns to customer follow-ups. Open the Cold Email template and follow Jasper's prompts to create your email."
+  },
+  {
+    "type": "text",
+    "content": "Jasper will guide you through the process of drafting a professional cold email by providing structured prompts. You will need to input the target audience, value proposition, and call to action. Jasper can assist you with each of these if you don't have them ready."
+  },
+  {
+    "type": "practice_task",
+    "title": "Cold Email",
+    "instruction": "Fill in the gap to craft a professional and persuasive cold email using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "This template is perfect for creating captivating social media ads that drive engagement and attract followers. Open the Social Media Ad template and let Jasper help you craft your ad."
+  },
+  {
+    "type": "text",
+    "content": "Jasper provides prompts to help you create engaging content for your social media platforms. You'll need to choose between platforms (Facebook, Instagram, LinkedIn, and X, for others), ad objectives, and key messages. Jasper can assist you with each of these if you don't have them ready."
+  },
+  {
+    "type": "practice_task",
+    "title": "Social Media Ad",
+    "instruction": "Fill in the gap to create a captivating social media ad using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great job exploring the various templates in Jasper AI! These tools will help you create a wide range of content quickly and effectively. In the next lesson, we'll dive deeper into advanced techniques for customizing your prompts and refining your content."
+  },
+  {
+    "type": "text",
+    "content": "Until next time, keep experimenting and creating with Jasper AI!"
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 3 END_files/b55f3c01-fde3-44f4-bbc2-2f6733405407.webp",
+    "alt_text": ""
+  }
+]

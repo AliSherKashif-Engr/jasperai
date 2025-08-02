@@ -1,0 +1,215 @@
+[
+  {
+    "type": "text",
+    "content": "Great listing copy is essential for attracting visitors and improving your site's SEO. With Jasper AI, you can create SEO-optimized titles and descriptions that enhance your webpage's visibility in search engine results."
+  },
+  {
+    "type": "quiz",
+    "question": "Which of the following Jasper AI templates should you use?",
+    "options": [
+      {
+        "text": "Product Description",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Meta Title and Description",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct template is designed to help create SEO-friendly titles and descriptions, which is essential for optimizing search engine results."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, we need to enter the content of your web page. This information will help Jasper AI understand the context and generate relevant titles and descriptions."
+  },
+  {
+    "type": "practice_task",
+    "title": "Web Page Content",
+    "instruction": "Fill in the gap to provide the content of your web page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, we need to specify the keywords you want to target. These are the terms your audience is likely to search for, which will help improve your page's ranking."
+  },
+  {
+    "type": "practice_task",
+    "title": "Target Keywords",
+    "instruction": "Fill in the gap to specify the target keywords for your web page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Jasper AI's \"Keywords\" template helps identify relevant and high-performing search terms. Let's enter the required information to generate effective keywords."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 13 END_files/88732adf-23e5-47cf-b69f-13caa6efbc75.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, specify the industry your website caters to. This helps Jasper AI generate industry-specific keywords."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 13 END_files/7f67e5c7-c5a4-48e4-aa94-b64302a1c351.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Industry Keywords",
+    "instruction": "Fill in the gap to specify the industry for your web page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, specify your target audience. This helps Jasper AI generate keywords that are relevant to your audience's interests."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 13 END_files/8575b9f0-de6e-4f02-95a0-7a3abdf033bb.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Target Audience Keywords",
+    "instruction": "Fill in the gap to specify the target audience for your web page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Finally, identify any keywords your competitors are ranking for. This helps Jasper AI generate keywords that can give you a competitive edge."
+  },
+  {
+    "type": "practice_task",
+    "title": "Competitor Analysis",
+    "instruction": "Fill in the gap to specify the competitor keywords for your web page using Jasper AI's template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "What other Jasper AI templates could you review to enhance your content?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Product Description, Search Ad, and Headlines",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Reviewing the Product Description, Search Ad, and Headlines templates will help create a detailed and persuasive listing copy."
+  },
+  {
+    "type": "quiz",
+    "question": "After Jasper AI has prepared the listing copy, what should be done next to ensure clarity and engagement?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Proofread the content and make necessary edits",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Proofreading the content and making necessary edits ensures clarity and engagement, enhancing the overall quality of the listing copy."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've created an SEO-optimized title, detailed description, and bullet points for your landing page using Jasper AI. These elements will help improve your webpage's visibility and attract more visitors."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 13 END_files/03e64028-4b96-46b2-8e93-c6173a6649b6.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've learned how to use Jasper AI to create a compelling listing copy. In the next lesson, we'll explore advanced techniques for refining your content and optimizing your SEO strategy."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 13 END_files/906f0aaa-26bf-4be1-ba64-9ef55511222f.webp",
+    "alt_text": ""
+  }
+]

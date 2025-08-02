@@ -1,0 +1,135 @@
+[
+  {
+    "type": "text",
+    "content": "Let's start with our digital product: \"EcoTrack,\" a digital platform for tracking and reducing carbon footprints for businesses. We'll use this example to walk through the entire product branding process with Jasper AI."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First, we need to create a brand tone of voice (ToV) for EcoTrack. This will help ensure consistency in how we communicate with our audience.\n\nLet's start by adding the product details to Jasper AI's knowledge base."
+  },
+  {
+    "type": "text",
+    "content": "We'll begin by entering some text about the product and its website URL into Jasper AI.\n\nText to Enter:\n\"EcoTrack is a comprehensive digital platform designed to assist businesses in tracking and reducing their carbon footprints. By offering real-time data, detailed analytics, and customizable reports, EcoTrack provides actionable insights that help companies make environmentally conscious decisions. Our platform integrates seamlessly with existing systems and features a user-friendly interface, making it accessible for businesses of all sizes. EcoTrack is committed to promoting sustainability and helping businesses achieve their eco-friendly goals.\"\n\nWebsite URL:\nwww.ecotrack.io"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's input the key features of EcoTrack. This information will help Jasper AI create accurate and compelling content. We will use the \"Product Branding\" template for this task."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 12 END_files/47129332-ab2a-4110-9813-85abe9a48b79.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Product Features",
+    "instruction": "Fill in the key features of EcoTrack.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Who is our target market for EcoTrack? Let's input this information next."
+  },
+  {
+    "type": "practice_task",
+    "title": "Target Market",
+    "instruction": "Identify the target market for EcoTrack.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "What makes EcoTrack stand out from its competitors? We'll answer this by looking at other products and identifying our unique value proposition."
+  },
+  {
+    "type": "practice_task",
+    "title": "Competitor Analysis",
+    "instruction": "Describe what makes EcoTrack stand out from its competitors.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "How can you refine the whole text further to get a more compelling and polished output?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Highlight the text Ask Jasper, Repurpose Content",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Highlight the text Ask Jasper, Improve Writing",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct method focuses on improving the overall quality and clarity of the text to achieve more compelling and polished output."
+  },
+  {
+    "type": "text",
+    "content": "Let's see what Jasper AI generates based on this input."
+  },
+  {
+    "type": "text",
+    "content": "\"EcoTrack Pro - Your Partner in Sustainability\nTrack, Analyze, and Optimize Your Environmental Impact\n\nReal-Time Tracking\nDetailed Analytics\nCustomizable Reports\n\nJoin the movement towards a more sustainable future.\n\nEcoTrack Pro - The smart choice for businesses dedicated to sustainability.\""
+  },
+  {
+    "type": "text",
+    "content": "By incorporating these elements on your landing page, you will effectively communicate the value and unique advantages of EcoTrack Pro to potential customers, encouraging them to engage with your brand and take meaningful steps towards a more sustainable future.\n\nAdditionally, let's add some images to our content. Visual elements can make our product branding more appealing and help communicate our message effectively."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 12 END_files/697cfb35-bd9b-45a8-93c6-0d53f20ee5d8.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Great job! You've successfully created a brand tone of voice, inputted product details, identified the target market, and conducted a competitor analysis using Jasper AI.\n\nWith Jasper's powerful tools, you've also reviewed, edited, and enhanced your content, adding visual elements to make it more engaging."
+  },
+  {
+    "type": "text",
+    "content": "That's it! You've completed your first product branding project. Stay tuned for the next lesson, where we'll continue building your portfolio with more exciting projects."
+  },
+  {
+    "type": "image",
+    "image_url": "./LESSON 12 END_files/46d6f0e6-ea84-4d26-a301-60a0db9b2bbd.webp",
+    "alt_text": ""
+  }
+]
