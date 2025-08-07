@@ -18,8 +18,8 @@
     "lesson_count": 2
   },
 {
-    "lesson_title": "Data Matters?",
-    "image_url": "./f014e459-cde7-4888-ba64-cd83bc2c8972.webp",
+    "lesson_title": "Exploring Templates",
+    "image_url": "./LESSON 3_files/2e510562-00a3-4585-87f7-9dc995edddaf.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_3_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_3_1.json",
@@ -27,8 +27,8 @@
     "lesson_count": 3
   },
 {
-    "lesson_title": "Get Ready to Become an SMM Specialist!",
-    "image_url": "./ca4af9bd-cd08-4a13-bdc9-07ddfaa2588c.webp",
+    "lesson_title": "Editing and Refining Your Content",
+    "image_url": "./LESSON 4_files/91c35eb2-b922-419b-8a05-13408070180f.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_4_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_4_1.json",
@@ -38,8 +38,8 @@
 
   },
 {
-    "lesson_title": "Travel Planning with AI",
-    "image_url": "./93c57c71-6f90-4fab-b1c6-6a1af4e83a22.webp",
+    "lesson_title": "SEO Basics with Jasper AI",
+    "image_url": "./LESSON 5_files/62b1be7a-8f64-4e4c-a95e-591c39de3687.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_5_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_5_1.json",
@@ -47,8 +47,8 @@
     "lesson_count": 5
   },
 {
-    "lesson_title": "AI for Event Planning",
-    "image_url": "./9d7dd89c-59ba-4d46-9fe8-78f3eaa19dbf.webp",
+    "lesson_title": "Crafting Engaging Headlines",
+    "image_url": "./LESSON 6_files/c8b071e0-68b1-434c-a1ef-951c9e22c773.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_6_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_6_1.json",
@@ -56,8 +56,8 @@
     "lesson_count": 6
   },
 {
-    "lesson_title": "Welcome Back!",
-    "image_url": "./22afc205-5e5f-498e-9d02-4aabc9c4cb2d.webp",
+    "lesson_title": "Writing Emails Like a Pro with Jasper AI",
+    "image_url": "./LESSON 7_files/4a1a7e2c-7aea-49b0-9d8a-7881f687fdb1.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_7_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_7_1.json",
@@ -65,8 +65,8 @@
     "lesson_count": 7
   },
 {
-    "lesson_title": "Context Management",
-    "image_url": "./281226ba-554e-4ce0-8cd3-864739a7fe6b.webp",
+    "lesson_title": "Long-Form Content with Jasper AI",
+    "image_url": "./LESSON 8_files/20e32ba1-ed41-4dbd-9eec-3d6e2817a4cc.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_8_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_8_1.json",
@@ -74,8 +74,8 @@
     "lesson_count": 8
   },
 {
-    "lesson_title": "Generating Creative Content",
-    "image_url": "./a53ed866-31fe-4edf-8714-6838ff40f1cc.webp",
+    "lesson_title": "Crafting Personalized Content with Jasper AI",
+    "image_url": "./LESSON 9_files/f16eaf1c-88bd-44f0-94b3-713a13134c9c.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_9_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_9_1.json",
@@ -83,7 +83,7 @@
     "lesson_count": 9
   },
   {
-    "lesson_title": "Complex Prompts for Data Processing",
+    "lesson_title": "Summarizing & Rewriting with Jasper AI",
     "image_url": "./2a397b92-4c53-4ed7-8ead-1bbdfccc4448.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_10_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
@@ -92,8 +92,8 @@
     "lesson_count": 10
   },
     {
-    "lesson_title": "SEO Optimization with ChatGPT",
-    "image_url": "./a336558a-5b03-4245-ae09-111c0ae4e6c7.webp",
+    "lesson_title": "Introduction to Practice Projects",
+    "image_url": "./LESSON 11_files/5cf2fdd0-8c64-41fd-a74d-e10599175237.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_11_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_11_1.json",
@@ -101,8 +101,8 @@
     "lesson_count": 11
   },
 {
-    "lesson_title": "Problem Solving",
-    "image_url": "./9f94affe-7faf-44b5-9207-d28472d61d1b.webp",
+    "lesson_title": "Copy for Product Label",
+    "image_url": "./LESSON 12_files/30664ec6-e253-42a7-9659-6d7a535fab01.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_12_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_12_1.json",
@@ -110,8 +110,8 @@
     "lesson_count": 12
   },
 {
-    "lesson_title": "Ethical Considerations",
-    "image_url": "./7c1f6b9b-b192-4f2c-b119-0a8ccde66797.webp",
+    "lesson_title": "Listing Copy with Jasper AI",
+    "image_url": "./LESSON 13_files/fe47f956-2dd1-440e-a96d-54dcb1e20ca5.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_13_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_13_1.json",
@@ -119,8 +119,8 @@
     "lesson_count": 13
   },
 {
-    "lesson_title": "Performance Analysis of AI Prompts",
-    "image_url": "./aa7a2225-c087-4c5c-9382-ddcab071698a.webp",
+    "lesson_title": "Creating a Professional Landing Page with Jasper AI",
+    "image_url": "./LESSON 14_files/e0b24eb4-e8a0-4549-b5f3-196a55bc3990.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_14_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_14_1.json",
@@ -128,8 +128,8 @@
     "lesson_count": 14
   },
 {
-    "lesson_title": "Creating and Selling AI Prompts",
-    "image_url": "./e4b667ec-3df7-4578-88a5-57aa88d7b973.webp",
+    "lesson_title": "Crafting an Engaging Script for a Video Ad with Jasper AI",
+    "image_url": "./LESSON 15_files/637e7fd9-fc26-4d37-abaa-896bcc9acf89.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_15_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_15_1.json",
@@ -137,8 +137,8 @@
     "lesson_count": 15
   },
 {
-    "lesson_title": "Final Lesson!",
-    "image_url": "./08c71063-bad8-43ac-b830-1df20b2b5e59.webp",
+    "lesson_title": "Writing Copy for Your Freelance Page with Jasper AI",
+    "image_url": "./LESSON 16_files/2c51adf7-771b-44af-b979-d2714287e3eb.webp",
     "_baseUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_16_2.json",
     "_baseImageUrl": "https://alisherkashif-engr.github.io/jasperai/",
     "_startLessonUrl": "https://alisherkashif-engr.github.io/jasperai/lesson_16_1.json",
