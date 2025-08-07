@@ -1,4 +1,10 @@
 [
+   {
+    "type": "heading",
+    "title": "Creating Your First AI Content",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Welcome back! Today, we're going to create your first piece of AI-generated content with Jasper. We'll start with something simple yet essential: a product description.\n\nRemember, a well-crafted product description can make a significant impact on your sales by engaging potential customers and highlighting the unique features of your product. Ready to dive in and see what Jasper can do? Let's get started!"
